@@ -14,6 +14,5 @@ public class Main {
 
         System.out.println("Equal name and breed equality: " + Oleg1.equals(Oleg2));
         System.out.println("Diff breed equality: " + Oleg1.equals(Oleg3));
-        System.out.println();
     }
 }
